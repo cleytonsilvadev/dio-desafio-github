@@ -1,2 +1,5 @@
-# dio-desafio-github
-primeiro repositório pela dio
+# Dio-Desafio-Github
+Primeiro Repositório pela DIO
+
+##Pesquisas
+[SINTAXE BASICA markdown ] (https://www.markdownguide.org/)
