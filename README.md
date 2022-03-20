@@ -2,4 +2,4 @@
 Primeiro Repositório pela DIO
 
 ## Pesquisas
-[SINTAXE BASICA markdown ](https://www.markdownguide.org/)
+[SINTAXE BASICA markdown ](https://www.markdownguide.org/basic-syntax/)
